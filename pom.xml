@@ -29,7 +29,7 @@
 				<cloudHubDeployment>
 				<username>SureshPanabaka</username>
                 <environment>Sandbox</environment>
-                <worker>1</worker>
+                <workers>1</workers>
                 <workerType>Micro</workerType>
                 <applicationName>empnamedisplay</applicationName>
                 <password>Panabaka87</password>
