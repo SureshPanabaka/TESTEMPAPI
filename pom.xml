@@ -26,7 +26,7 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-				</cloudHubDeployment>
+				<cloudHubDeployment>
                 <username>SurshPanabaka</username>
                 <environment>Sandbox</environment>
                 <worker>1</worker>
