@@ -26,7 +26,15 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-				</configuration>
+                <username>SurshPanabaka</username>
+                <environment>Sandbox</environment>
+                <worker>1</worker>
+                <workerType>Micro</workerType>
+                <applicationName>empnamedisplay</applicationName>
+                <password>Panabaka87</password>
+                <muleVersion>4.2.2<muleVersion>
+                </coudHubDeployment>
+                </configuration>
 			</plugin>
 		</plugins>
 	</build>
